@@ -1,6 +1,8 @@
 h1 {
     color:rgb(255, 253, 253);
-    background-color:rgb(240, 12, 12);
+    border-style: hidden;
+    position: center;
+
 }
 
 h2 { color:rgb(255, 255, 255);
