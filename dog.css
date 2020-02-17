@@ -1,4 +1,28 @@
-body {
-    background-color: firebrick;
-    background-image: url("https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/p720x720/31530630_1736610136386173_1042865995598790656_o.jpg?_nc_cat=110&_nc_ohc=GiTGsY6I09sAX93DE2O&_nc_ht=scontent-atl3-1.xx&_nc_tp=6&oh=984af99d5b7440b8e8d2b13fe18da505&oe=5ED20E88");
+
+
+
+
+h1{
+    color:white;
+    text-align: center;
 }
+
+
+
+
+
+
+body {
+    background-image: url("https://i.pinimg.com/originals/e8/13/d5/e813d5a6ac37dd722503e24b55061b0e.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color:floralwhite;
+    background-size: cover;
+    color:white;
+}
+
