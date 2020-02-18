@@ -16,6 +16,7 @@ font-size:150%;
   }
 a:hover{ 
   background-color: black;
+  display:inline-block;
 }
 
 
@@ -35,6 +36,9 @@ h2 {background-color:black;
   }
 
 
+aside {  float:right;
+        color:white;
+}
 
 h3 {
   color:white;
@@ -47,6 +51,14 @@ h4 {
 color:white;
 background-color: black;
 }
+
+
+
+h5 {
+  color:white;
+  background-color: black;
+  }
+  
 
 
 body {
