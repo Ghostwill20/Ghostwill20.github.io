@@ -11,9 +11,17 @@ header {
 font-family: 'Lobster Two', cursive;
 color: black;
 font-size:150%;
+}
 
+a {
+  border-style:hidden;
+  float:right;
+  color:white;
+  width: auto;
+  background-color: clear;
+  list-style-type: disc;
+}
 
-  }
 a:hover{ 
   background-color: black;
   display:inline-block;
@@ -22,46 +30,48 @@ a:hover{
 
 h1 {
   color:white;
-  background-color: black;
+  border-style: hidden;
 
 }
+
 
 article {
     display:block;
     background-color:clear;
 }
 
-h2 {background-color:black;
-   color:white;
+h2 {
+    color:white;
+  text-align: center;
+  }
+
+  #dbz { 
+    background-color: white;
+  
   }
 
 
-aside {  float:right;
-        color:white;
-}
-
 h3 {
   color:white;
-  background-color:black ;
+  text-align: center;
 }
 
 
 
 h4 {
-color:white;
-background-color: black;
+color:black;
 }
 
 
 
 h5 {
-  color:white;
-  background-color: black;
+  color:black;
   }
   
 
-
+  
 body {
+  box-sizing: border-box;
 background-image: url("https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/67516014_2396368657076981_5093291863947870208_n.jpg?_nc_cat=111&_nc_ohc=haf8vtmJBYoAX8NHuGR&_nc_ht=scontent-atl3-1.xx&oh=71856088cb51f89f84e7b070dc79ea59&oe=5EB78942");
 background-repeat: no-repeat;
 background-attachment: fixed;
@@ -100,3 +110,5 @@ background-color:black ;
   background-color:hotpink;
   color:white;
 }
+
+

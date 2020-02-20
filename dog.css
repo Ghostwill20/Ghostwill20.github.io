@@ -7,7 +7,23 @@ h1{
     text-align: center;
 }
 
+ol  {
+background:clear;
+padding: 5px;
+}
 
+ol li {
+    background-color: green;
+    padding: 5px;
+    margin-left: 40px;
+}
+
+
+.box{
+    width:300px;
+    height:300px;
+    offset:10px;
+}
 
 
 
