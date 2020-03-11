@@ -1,114 +1,162 @@
-header {
-    color:rgb(255, 253, 253);
-    border-style: hidden;
-    padding: 20px 20px;
-    font-size: 300%;
-    position: center;
-   text-align: center;
-   text-shadow: -4px 4px rgba(179,179,179,.4), -8px 8px rgba(153,153,153,.2), -2px 2px rgba(179,179,179,.2), -1px 1px rgba(179,179,179,.2), 0px 0px rgba(128,128,128,.5), 1px -1px rgba(77,77,77,.6), 2px -2px rgba(77,77,77,.7), 3px -3px rgba(82,82,82,.8), 4px -4px rgba(77,77,77,.9), 5px -5px rgba(77,77,77,1);
-  background-image: url("https://media1.giphy.com/media/xdzMB8GB03l3G/giphy.gif");
-  background-size:contain; 
+#head {
+  border-style: hidden;
+  padding: 20px 20px;
+  font-size: 300%;
+  position: center;
+ text-align: center;
+ text-shadow: -4px 4px rgba(179,179,179,.4), -8px 8px rgba(153,153,153,.2), -2px 2px rgba(179,179,179,.2), -1px 1px rgba(179,179,179,.2), 0px 0px rgba(128,128,128,.5), 1px -1px rgba(77,77,77,.6), 2px -2px rgba(77,77,77,.7), 3px -3px rgba(82,82,82,.8), 4px -4px rgba(77,77,77,.9), 5px -5px rgba(77,77,77,1);
 font-family: 'Lobster Two', cursive;
 color: black;
-font-size:150%;
+font-size:500%;
+
+}
+
+
+
+.img1 {
+    text-align: center;
+    border-radius: hidden;
+   
+    
 }
 
 a {
-  border-style:hidden;
-  float:right;
-  color:white;
-  width: auto;
-  background-color: clear;
-  list-style-type: disc;
-}
-
-a:hover{ 
-  background-color: black;
-  display:inline-block;
-}
-
-
-h1 {
-  color:white;
-  border-style: hidden;
-
-}
-
-
-article {
-    display:block;
-    background-color:clear;
-}
-
-h2 {
-    color:white;
-  text-align: center;
+    border-style:hidden;
+    float:right;
+    color:rgb(2, 1, 1);
+    width: auto;
+    background-color: clear;
+    list-style-type: disc;
+    margin: 0;
+    padding: 5;
   }
-
-  #dbz { 
-    background-color: white;
   
+  a:hover{ 
+    background-color:gold;
+    display:inline-block;
   }
 
 
-h3 {
-  color:white;
-  text-align: center;
-}
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   }
+  
+  li {
+    float:center;
 
-
-
-h4 {
-color:black;
-}
-
-
-
-h5 {
-  color:black;
   }
   
+  li a {
+    display: block;
+    padding: 8px;
+    
+  }
 
-  
+#pic {
+    background-image: url("images/IMG_6462 (2).jpg");
+    background-size: cover;
+    width: 400px;
+   height: 400px;
+   float: right;
+   border-radius: 60%;
+   transform: rotate(360deg);
+
+}
+ 
+#img2 {
+  background-image: url("images/Augusta_15Jul19_12_1__1f006e40-4c83-4c0c-bdfc-83b3f7616258.jpg");
+    background-size: cover;
+    width: 100px;
+   height: 100px;
+   float:left;
+   margin: 20px;
+}
+
+#img3 {
+  background-image: url("images/fayetteville_opt_6.jpg");
+  background-size: cover;
+  width: 100px;
+ height: 100px;
+ float:left;
+ margin: 20px;
+}
+
+#img4 {
+  background-image: url("images/1_1526544551421_42819963_ver1.0.jpg");
+  background-size: cover;
+  width: 100px;
+ height: 100px;
+ float:left;
+ margin: 20px;
+}
+
+#img5 {
+  background-image: url("images/iStock-1161499220.jpg");
+  background-size: cover;
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 20px;
+}
+
+
+
 body {
-  box-sizing: border-box;
-background-image: url("https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/67516014_2396368657076981_5093291863947870208_n.jpg?_nc_cat=111&_nc_ohc=haf8vtmJBYoAX8NHuGR&_nc_ht=scontent-atl3-1.xx&oh=71856088cb51f89f84e7b070dc79ea59&oe=5EB78942");
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-position: center;
-background-color:floralwhite;
-background-size: cover;
-font-family: 'Lobster Two', cursive;
-color:black;
-font-size: larger;
+   border-radius: 30px;
+   background-color:rgb(168, 163, 163);
+   margin: 0px;
+   padding: 0px;
+   font-family: 'Great Vibes', cursive;
 }
 
-main {
-  position: center;
-  text-align: center;
-  font-size: 300%;
+
+table th {
+  padding: 20px;
+  color: black;
 }
 
-#gold {
-  font-family: 'Lobster Two', cursive;
-  border-collapse: collapse;
-  
- }
+table td {
+  padding: 20px;
+  color: white;
+}
+
+.he {
+ /* button */
+
+position: relative;
+width: 231.12px;
+height: 75.59px;
+
+background: radial-gradient(39.47% 423.68% at 50% 50%, #600808 18.75%, rgba(255, 10, 10, 0.1) 48.44%, #E5E5E5 97.4%), radial-gradient(70.18% 321.75% at 25.6% 29.82%, #F02222 14.58%, rgba(255, 11, 25, 0.433649) 41.15%, rgba(255, 255, 255, 0) 100%);
+box-shadow: 0px 4px 4px rgba(247, 11, 11, 0.9);
+border-radius: 10000px;
+transform: rotate(0.6deg);
 
 
+/* label */
 
- #gold td, th {
-  border:hidden;
+position: absolute;
+width: 95px;
+height: 23px;
+left: 63.47px;
+top: 30.66px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+display: flex;
+align-items: center;
 text-align: center;
-color:white;
-background-color:black ;
- }
+
+color: #B71D1D;
+
+border: 1px solid #000000;
+transform: rotate(0.6deg);
 
 
-
- #white th, td, tr {
-  background-color:hotpink;
-  color:white;
 }
-
-
