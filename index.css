@@ -64,7 +64,7 @@ a {
   }
 
 #pic {
-    background-image: url("images/IMG_6462 (2).jpg");
+    background-image: url("images/CBC8_CarlosWilliams.JPG");
     background-size: cover;
     width: 400px;
    height: 400px;
@@ -139,9 +139,79 @@ table td {
   
 }
 
+#dog0 {
+background-image: url("images/IMG_3775.jpg");
+height:400px;
+width: 400px;
+background-size: cover;
+}
+
+#dog1 {
+  background-image: url("images/IMG_3860.jpg");
+  height:400px;
+  width: 400px;
+  background-size: cover;
+}
+
+#dog2 {
+  background-image: url("images/IMG_3778.jpg");
+  height:400px;
+  width: 400px;
+  background-size: cover;
+}
+
+#dog3 {
+  background-image: url("images/IMG_3776.jpg");
+  height:400px;
+  width: 400px;
+  background-size: cover;
+}
+
+
+#dog4 {
+  background-image: url("images/IMG_3865.jpg");
+  height:400px;
+  width: 400px;
+  background-size: cover;
+  padding:50px;
+}
+
+#dog5 {
+  background-image: url("images/IMG_3968.jpg");
+  height:400px;
+  width: 400px;
+  background-size: cover;
+}
+
+
+#dog6 {
+  background-image: url("images/IMG_5270.jpg");
+  height:400px;
+  width: 400px;
+  background-size: cover;
+}
+
+#dogtable td {
+  padding: 50px;
+  margin: 50px;
+}
+
+#dogtable th {
+  padding: 50px;
+  margin: 50px;
+}
+
+
+
+
+
+
+
 
 .project  {
 background-color: white;
 color: black;
 }
+
+
 
